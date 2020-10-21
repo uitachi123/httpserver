@@ -6,4 +6,6 @@ python webapp.py
 ```
 
 ## docker build
+```
 docker built -t <your image> .
+```
